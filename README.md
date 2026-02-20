@@ -40,7 +40,6 @@ Future projects will expand to include more complex layouts, interactive feature
 
 - All projects are written in **pure HTML** (no CSS/JS for now).  
 - Contributions are welcome! Feel free to fork and improve projects.  
-- Commit messages follow **DayXX: Project Title - Short description** format.  
 
 ---
 
