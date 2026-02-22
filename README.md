@@ -2,7 +2,7 @@
 
 Welcome to my **HTML Projects** repository!  
 
-This repository contains small  projects built using **pure HTML**, aimed at transforming my learning into real-world development practice. Each project is structured to demonstrate clear semantic HTML, proper element usage, and accessible design principles.  
+This repository contains small  projects built using **pure HTML + little CSS**, aimed at transforming my learning into real-world development practice. Each project is structured to demonstrate clear semantic HTML, proper element usage, and accessible design principles.  
 
 ---
 
@@ -10,9 +10,9 @@ This repository contains small  projects built using **pure HTML**, aimed at tra
 
 Each project follows this pattern:
 Project-Name/
-├── index.html # The main HTML file
-└── README.md # Short description of the project
-
+├── index.html # The main HTML file 
+|── README.md # Short description of the project
+|-- style.css # Little bit of CSS if needed
 ---
 
 ## 🚀 Goals of this Repository
@@ -20,7 +20,6 @@ Project-Name/
 - Apply HTML concepts learned in a real development context.
 - Practice semantic and accessible HTML structure.
 - Build a portfolio of mini-projects from beginner to advanced level.
-- Prepare for integrating CSS and JavaScript in future projects.
 
 ---
 
@@ -38,7 +37,7 @@ Future projects will expand to include more complex layouts, interactive feature
 
 ## 📌 Notes for Developers
 
-- All projects are written in **pure HTML** (no CSS/JS for now).  
+- All projects are written in **pure HTML** (little CSS).  
 - Contributions are welcome! Feel free to fork and improve projects.  
 
 ---
